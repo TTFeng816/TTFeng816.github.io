@@ -1,0 +1,42 @@
+h1 {
+    color:rgb(235, 242, 26);
+    font-family:helvetica;
+    }
+    
+    p {
+    color:pink;
+    }
+    
+    h3 {
+    color:rgb(141, 41, 199);
+    }
+    body {
+        background-color:rgb(168, 76, 162);
+        }
+    img {
+            border: 5px solid rgb(222, 151, 222);
+            }
+    img {
+            border: 5px solid rgb(207, 178, 207);
+            width:50%;
+            height:50%;
+            margin-left: 80px;
+
+            }
+            h1 {
+                color:rgb(235, 242, 26);
+                font-family:helvetica;
+                background-color:rgb(220, 133, 214);
+                border:5px solid rgb(81, 122, 218);
+                padding:50px;
+                 }
+                
+                
+#highlight{color:rgb(223, 131, 208);
+    background-color:rgb(160, 204, 88);
+border: 2px dotted rgb(14, 195, 14);
+}
+.top{
+    background-color:rgb(146, 41, 139);
+    float:right;
+}
